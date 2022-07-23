@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+🎓 I am João Gonçalo, a **Front End Web Developer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2025.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**, **Progressive Web App (PWA)**.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+🏉 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **rugby**, **sketching**, and **gaming**.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+📚 I also love reading books on **financial literacy**. My favorite one is **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+✈️ I love **traveling** too. I have been on solo trips to **Luxembourg** in _2017_ and to **Rio de Janeiro, Brazil** in _2021_.
 
 ## 🛠️ Skills
 
@@ -76,26 +76,6 @@
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## 📝 Top Blog Posts
-
--   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
-
-Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
-
-## 📈 Stats
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
-</div>
 
 ## 🔗 Links
 
