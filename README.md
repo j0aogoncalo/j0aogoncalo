@@ -2,15 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 I am João Gonçalo, a **Front End Web Developer**. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2025.
+🎓 I am João Gonçalo, a **Student**. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2025.
 
-👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2022, I learned **Next.js**.
-
-🏉 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **rugby**, **sketching**, and **gaming**.
-
-📚 I also love reading books on **financial literacy**. My favorite one is **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
-✈️ I love **traveling** too. I have been on solo trips to **Luxembourg** in _2017_ and to **Rio de Janeiro, Brazil** in _2021_.
+🏉 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Rugby** and **Gaming**.
 
 ## 🛠️ Skills
 
